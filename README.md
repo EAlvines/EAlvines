@@ -36,8 +36,8 @@
     <h3 style="margin:0 0 10px;">📁 Proyectos destacados</h3>
   </div>
   
-- 📈 [**Customer Success Dashboard**](https://github.com/EAlvines/customer-success-dashboard)  
-  KPIs de Customer Success con foco en SLAs. Construido en Power BI, SQL y Power Query.  
+- 📈 [**Customer Success Dashboard**](https://github.com/EAlvines/tablero-kpis-soporteycustomer-python-powerbi/tree/main)  
+  KPIs de Customer Success con foco en SLAs. Construido en Power BI, Python y Dax  
 
 - 🛒 [**Retail ETL en Azure**](https://github.com/EAlvines/retail-etl-azure)  
   Flujo ETL con Python y migración a Azure SQL, con dashboard en Power BI Service.  
