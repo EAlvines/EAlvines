@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola, soy Emily 👋
+
+<img width="3780" height="1472" alt="Banner Revista de Moda Elegante Negro" src="https://github.com/user-attachments/assets/dd9fa125-05de-4b51-95a2-a29aa12d13d3" />
+
 
 <!--
 **EAlvines/EAlvines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
