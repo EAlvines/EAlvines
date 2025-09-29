@@ -20,6 +20,7 @@
     <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
     <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </p>
 
   <!-- Sobre mí -->
@@ -36,19 +37,19 @@
     <h3 style="margin:0 0 10px;">📁 Proyectos destacados</h3>
   </div>
   
-- 📈 [**Customer Success Dashboard**](https://github.com/EAlvines/tablero-kpis-soporteycustomer-python-powerbi/tree/main)  
+- 📈 [**Customer Success Dashboard:**](https://github.com/EAlvines/tablero-kpis-soporteycustomer-python-powerbi/tree/main)
   KPIs de Customer Success con foco en SLAs. Construido en Power BI, Python y Dax  
 
-- 🛒 [**Retail ETL en Azure**](https://github.com/EAlvines/Retail-pipeline-azure-sql-powerbi)  
+- 🛒 [**Retail Pipeline ETL en Azure DataFactory + SQL + Power BI:**](https://github.com/EAlvines/Retail-pipeline-azure-sql-powerbi)
   Flujo ETL con Python y migración a Azure SQL, con dashboard en Power BI Service.  
 
 
-  <!-- Actualmente aprendiendo -->
-  <div style="margin-top:16px; display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
-    <div style="padding:10px 12px; border-radius:10px; background:#fff; border:1px solid #eef2ff;">
-      <strong>🌱 Aprendiendo</strong>
-      <div style="font-size:13px; color:#334155;">APIs con Python · ML básico · Buenas prácticas en Azure · Deployment</div>
-    </div>
+<!-- Actualmente aprendiendo -->
+<div style="margin-top:16px; display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
+  <div style="padding:10px 12px; border-radius:10px; background:#fff; border:1px solid #eef2ff;">
+    <strong>🌱 Aprendiendo</strong>
+    <div style="font-size:13px; color:#334155;">APIs con Python · ML básico · Buenas prácticas en Azure · Deployment</div>
+  </div>
 
 ## 📫 Contacto  
 
