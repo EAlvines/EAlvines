@@ -37,12 +37,17 @@
     <h3 style="margin:0 0 10px;">📁 Proyectos destacados</h3>
   </div>
   
-- 📈 [**Customer Success Dashboard:**](https://github.com/EAlvines/tablero-kpis-soporteycustomer-python-powerbi/tree/main)
-  KPIs de Customer Success con foco en SLAs. Construido en Power BI, Python y Dax  
+- 📈 [**Customer Success Dashboard**](https://github.com/EAlvines/tablero-kpis-soporteycustomer-python-powerbi)  
+  KPIs de Customer Success con foco en SLAs. Construido en Power BI, SQL y Power Query.  
 
-- 🛒 [**Retail Pipeline ETL en Azure DataFactory + SQL + Power BI:**](https://github.com/EAlvines/Retail-pipeline-azure-sql-powerbi)
-  Flujo ETL con Python y migración a Azure SQL, con dashboard en Power BI Service.  
+- 🛒 [**Retail Flujo Pipeline ETL Azure DataFactory + Azure SQL + Power BI**](https://github.com/EAlvines/Retail-pipeline-azure-sql-powerbi)  
+  Flujo ETL con Python y migración a Azure SQL, con dashboard en Power BI Service.
+  
+- ⚙️ [**Automatización Consolidación Archivos**](https://github.com/EAlvines/proyectos-automatizaciones)  
+  Script en Python para automatizar la consolidación de archivos y optimizar procesos repetitivos.  
 
+- 📲 [**App Gestión Solicitudes**](https://github.com/EAlvines/app-gestion-solicitudes-powerapp)  
+  Aplicación en Power Apps conectada a SharePoint, SQL Server y Azure para gestionar solicitudes con flujo de aprobación automatizado.  
 
 <!-- Actualmente aprendiendo -->
 <div style="margin-top:16px; display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
