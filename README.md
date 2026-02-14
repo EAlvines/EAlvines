@@ -43,8 +43,8 @@
 - 🛒 [**Retail Flujo Pipeline ETL Azure DataFactory + Azure SQL + Power BI**](https://github.com/EAlvines/Retail-pipeline-azure-sql-powerbi)  
   Flujo ETL con Python y migración a Azure SQL, con dashboard en Power BI Service.
   
-- ⚙️ [**Automatización Consolidación Archivos**](https://github.com/EAlvines/proyectos-automatizaciones)  
-  Script en Python para automatizar la consolidación de archivos y optimizar procesos repetitivos.  
+- ⚙️ [**App para automatizar la generación de expediente Prelegajos**](https://github.com/EAlvines/app-generador-de-expediente-legajo)  
+  Desarrollo en Python para automatizar la generación de expediente de Prelegajos en formato Aplicativo de escritorio.  
 
 - 📲 [**App Gestión Solicitudes**](https://github.com/EAlvines/app-gestion-solicitudes-powerapp)  
   Aplicación en Power Apps conectada a SharePoint, SQL Server y Azure para gestionar solicitudes con flujo de aprobación automatizado.  
